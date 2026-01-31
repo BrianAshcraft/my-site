@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Tooling
+.agents/
+.github/skills/
+
+
+# Tooling folders
+.agents/
+.github/
+
